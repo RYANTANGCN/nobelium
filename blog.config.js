@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Tong Chin Lay',
+  title: 'RyanTang',
   author: 'Ryan Tang',
   email: 'ryantangcn@outlook.com',
   link: 'https://ryantang.org',
-  description: 'Step by Step.',
+  description: '随便写写',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
